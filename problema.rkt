@@ -1,4 +1,4 @@
-;;in setari la Language am ales Pretty Big 
+;;am folosit Pretty Big 
 
 ;;functii pentru testare
 
